@@ -1,0 +1,4 @@
+env.json
+.DS_Store
+node_modules
+gitlab_issues_backup.json
